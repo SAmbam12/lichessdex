@@ -1,2 +1,0 @@
-class SavedGame < ApplicationRecord
-end
